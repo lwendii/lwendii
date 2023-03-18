@@ -2,6 +2,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lwendii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=lwendii&color=yellow&style=for-the-badge)
+
 <!--
 **lwendii/lwendii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
